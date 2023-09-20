@@ -3,7 +3,7 @@ Airport Analysis Power BI Project
 
 # Dashboard
 
-![image](https://github.com/monika192/Power-BI-Airport-Analysis/assets/70840949/afa15747-7f01-4523-bf7b-f7bd51bdafe9)
+![image](https://github.com/monika192/Power-BI-Airport-Analysis/assets/70840949/378ab061-e2cd-4940-a9ff-a7723c029b44)
 
 ![image](https://github.com/monika192/Power-BI-Airport-Analysis/assets/70840949/5509f227-17aa-4d5c-8615-d99c20e5f0d8)
 
